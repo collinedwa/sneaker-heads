@@ -25,3 +25,17 @@ Images:
 - "https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg"
     - (You may use any image you would like for the background!)
 */
+
+#page-title{
+    width: 75%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    color: rgb(135, 64, 198);
+    margin: auto auto auto;
+    text-align: center;
+    text-shadow: 4px 2px 4px yellow;
+    text-decoration-line: underline;
+    text-decoration-color: rgb(135, 64, 198);
+    background-image: linear-gradient(rgb(116, 201, 241),rgb(251, 64, 64));
+    border-radius: 8px;
+}
